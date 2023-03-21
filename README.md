@@ -5,7 +5,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Engenharia de software na <a href="www.fiap.com.br">Fiap</a>.
+- 🎓 &nbsp; Estudando Engenharia de software na <a href="fiap.com.br">Fiap</a>.
 - 💼 &nbsp; Trabalhando como Gerente de vendas na <a href="https://spautosmultimarcas.com.br">Sp Autos</a>
 - 🌱 &nbsp; Aprendendo mais sobre Java Script.
 
