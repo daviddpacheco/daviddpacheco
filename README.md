@@ -40,4 +40,4 @@
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/david-pacheco-67127626a/)
 [![Gmail Badge](https://img.shields.io/badge/-david.medeirosjr1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david.medeirosjr1@gmail.com)](mailto:david.medeirosjr1@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/daviddpacheco?label=follow&style=social)](https://github.com/daviddpacheco)
-
+<a href="https://instagram.com/daviddz__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
