@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Engenharia de software na <a href="https://www.fiap.com.br">Fiap</a>.
-- 💼 &nbsp; Trabalhando como Gerente de vendas na <a href="https://spautosmultimarcas.com.br">Sp Autos</a>
 - 🌱 &nbsp; Aprendendo mais sobre Java Script.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
